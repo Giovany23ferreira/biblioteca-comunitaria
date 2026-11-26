@@ -98,5 +98,5 @@ frontend/src/
 
 |      Nome      | Responsabilidade |
 |----------------|------------------|
-|Cézar Augusto   |                  |
-|Gyovany Ferreira|                  |
+|Cézar Augusto   |     Back-end     |
+|Gyovany Ferreira|     Front-end    |
