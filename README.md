@@ -96,8 +96,7 @@ frontend/src/
 
 ## Integrantes
 
-| Nome | Responsabilidade |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|      Nome      | Responsabilidade |
+|----------------|------------------|
+|Cézar Augusto   |                  |
+|Gyovany Ferreira|                  |
